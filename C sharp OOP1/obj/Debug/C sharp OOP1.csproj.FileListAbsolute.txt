@@ -1,0 +1,8 @@
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\C sharp OOP1\bin\Debug\C sharp OOP1.exe.config
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\C sharp OOP1\bin\Debug\C sharp OOP1.exe
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\C sharp OOP1\bin\Debug\C sharp OOP1.pdb
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\C sharp OOP1\obj\Debug\C sharp OOP1.csproj.AssemblyReference.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\C sharp OOP1\obj\Debug\C sharp OOP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\C sharp OOP1\obj\Debug\C sharp OOP1.csproj.CoreCompileInputs.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\C sharp OOP1\obj\Debug\C sharp OOP1.exe
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\C sharp OOP1\obj\Debug\C sharp OOP1.pdb

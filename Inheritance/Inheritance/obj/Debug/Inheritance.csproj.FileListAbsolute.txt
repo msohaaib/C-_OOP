@@ -1,0 +1,8 @@
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,8 @@
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Abstraction\obj\Debug\Abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\MSohaib\Desktop\web\Backend web\C#\OOP\Abstraction\obj\Debug\Abstraction.pdb
